@@ -26,5 +26,9 @@ The peoples of Eidyria have many creation myths, some of which assert that they 
 
 Ancient [[Asfällia]] was the founding culture of Eidyrian history. Most of what is known from before the First Era can be atributed to ancient elvish texts, with the oldest dating back nearly 20,000 years.
 
-The recorded history begins with the reconstruction of the Library of Rein in [[Tilsit Rein]], [[Asfällia]]. 
+The traditional theory is that the elves of ancient [[Asfällia]] were the first peoples on the continent followed shortly after by the dwarves. The next peoples that are believed to have appeared are the dragonborn, some x,000 years ago. Elven records mention
+
+Humans seem to have appeared x,000 years ago 
+
+// The recorded history begins with the reconstruction of the Library of Rein in [[Tilsit Rein]], [[Asfällia]].
 ### First Era
