@@ -4,7 +4,7 @@ title: North Eidyrian Confederation
 image: North Eidyrian Confederation.png
 Capital: Markavo
 Government: Confederal Monarchies
-Population: 87,000
+Population: ""
 ---
 
 # North Eidyrian Confederation
