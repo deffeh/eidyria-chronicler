@@ -18,17 +18,15 @@ The continent includes the subregions of the North (comprising the [[Kingdom of 
 The culture of Eidyria consists of  a range of  national and regional cultures which together commonly reference the North as crucial and shared roots.
 
 ## Etymology
-The name Eidyria comes from Old Common meaning "our land."
+The name Eidyria comes from Old Common meaning "Our land."
 
 ## History
 ### Before the First Era (BFE)
-The peoples of Eidyria have many creation myths, some of which assert that they have been present on the land since its creation, but there is no verifiable evidence to support those claims.
+Ancient [[Asfällia]] was the founding culture of Eidyrian history. Most of what is known from before the First Era can be attributed to ancient elvish texts, with the oldest dating back nearly 20,000 years. As for the rest of the continent, outside of ancient Asfällian records, artifacts provide an incomplete and inexact history as the other races did not possess written language until x,000 years ago.
 
-Ancient [[Asfällia]] was the founding culture of Eidyrian history. Most of what is known from before the First Era can be atributed to ancient elvish texts, with the oldest dating back nearly 20,000 years.
+The peoples of Eidyria have many creation myths, some of which assert that they have been present on the land since its creation, but there is no verifiable evidence to confirm these claims. The traditional theory is that the elves of ancient [[Asfällia]] were the first peoples on the continent followed shortly thereafter by the dwarves. Both races predate the burning of [[Tilsit Rein]] so it is unknown exactly for how long they have existed. The next peoples that are believed to have appeared on the continent are the dragonborn. Elven records from x,000 years ago first mention encounters with dragons in the humanoid form during dragon raids from the west. As for the remaining peoples, fossil records indicate that orcs began appearing x,000 years ago on the [[Viden Peninsula]], gnomes and halflings x,000 years ago along the coast of the [[Gulf of Kinot]], and humans x,000 years ago in the mountains of the [[Anad Peninsula]].
 
-The traditional theory is that the elves of ancient [[Asfällia]] were the first peoples on the continent followed shortly after by the dwarves. The next peoples that are believed to have appeared are the dragonborn, some x,000 years ago. Elven records mention
+Outside of ancient [[Asfällia]], these peoples were divided into many different polities, ranging from small bands of a few families to large chiefdoms. They lived in several culture areas, which roughly correspond to geographic and biological zones that defined the representative cultures and lifestyles of the peoples who live there. Peoples of the same race did not always share the same material culture, however, and were not necessarily always allies.
 
-Humans seem to have appeared x,000 years ago 
-
-// The recorded history begins with the reconstruction of the Library of Rein in [[Tilsit Rein]], [[Asfällia]].
+The modern populations of Eidyria largely descend from four destinct lineages: elves, humans, gnomes halflings, orcs, elve
 ### First Era
