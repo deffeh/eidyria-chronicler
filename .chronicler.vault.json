@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "dark",
+    "activeTheme": "light",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -15,10 +15,10 @@
       "textureOpacity": 0.5
     },
     "headingFont": "\"Uncial Antiqua\", cursive",
-    "bodyFont": "\"Spectral\", serif",
+    "bodyFont": "\"IM Fell English\", serif",
     "fontSize": 100,
     "sidebarWidth": 300,
-    "isTocVisible": false,
+    "isTocVisible": true,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": true
   }
