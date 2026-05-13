@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "dark",
+    "activeTheme": "light",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -15,9 +15,9 @@
       "textureOpacity": 0.5
     },
     "headingFont": "\"Cinzel\", serif",
-    "bodyFont": "\"Spectral\", serif",
+    "bodyFont": "\"Junicode\", serif",
     "fontSize": 100,
-    "sidebarWidth": 300,
+    "sidebarWidth": 352,
     "isTocVisible": true,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": true
