@@ -51,3 +51,5 @@ In 2E 115, the [[Kingdom of Lavencia]] and the [[Kingdom of Neshium]] were unite
 The Lavent-Neshian Empire invaded [[Könika]] in 2E 155, inhabited by displaced orcish tribes from the Viden Peninsula over centuries of human migration. The conflict lasted for ten years and was marked by prolonged campaigning across the region's harsh badlands and dry plains. In 2E 165, the empire secured control over the territory and established a military occupation, incorporating Könika into its sphere of influence. Imperial rule accelerated the settlement of human populations and further marginalized the orcs, many of whom were displaced into neighboring regions.
 
 In 2E 157, the [[North Eidyrian Confederation]] was formed by the [[Kingdom of Seymon]], the [[Kingdom of Talov]], and the [[Kingdom of Belaya]] in response to the ongoing invasion of Könika. The alliance was established for mutual defense and economic integration intended to deter foreign influence and invasion. Although each member state retained its own monarch and internal administration, the confederation coordinated foreign policy and military planning through an elected high king.
+
+## Geography
