@@ -3,7 +3,7 @@ title: Eidyria
 image: The World.png
 subtitle: A Map of Eidyria
 Population: ~5,750,000
-Religions: [ foo, bar ]
+Religions: [ "[[The Eidyrian Pantheon]]" ]
 Demonym: Eidyrian
 "Languages (Most Common):": [ Common, Elvish, Dwarvish, Orc, and many others ]
 Largest Cities: [ Dionadyr, Thies, Kumarus, Markavo ]
