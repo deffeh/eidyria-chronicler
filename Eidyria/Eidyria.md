@@ -1,14 +1,14 @@
 ---
 title: Eidyria
-image: The World.png
-subtitle: A Map of Eidyria
+image: [ [ The World.png, A Map of Eidyria ] ]
 Population: ~5,750,000
-Religions: [ "[[The Eidyrian Pantheon]]" ]
+Religion: "[[The Eidyrian Pantheon]]"
 Demonym: Eidyrian
 "Languages (Most Common):": [ Common, Elvish, Dwarvish, Orc, and many others ]
 Largest Cities: [ Dionadyr, Thies, Kumarus, Markavo ]
 ---
 
+# Eidyria
 Eidyria is a continent bordered by the [[Old Sea]] to the north, the [[Kande Ocean]] to the west, the [[Great Sea]] and the [[Sea of Embers]] to the south, and the [[Lazores Ocean]] to the east.
 
 Politically, Eidyria is divided into about seven sovereign states, of which the [[Lavent-Neshian Empire]] is the largest and most populous, comprising about 20% of the population. Eidyria is estimated to have a total population of over five million people.
