@@ -1,8 +1,7 @@
 ---
-tags: [ add, your, tags ]
 image: Lavent-Neshian Empire.png
 Capital: Dionadyr
 Government: Dual Monarchy
-Population: ""
+Population: "~1,250,000"
 ---
 
