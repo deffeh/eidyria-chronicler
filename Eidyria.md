@@ -5,8 +5,9 @@ Population: ~6,250,000
 Religion: "[[The Eidyrian Pantheon]]"
 Demonym: Eidyrian
 "Languages (Most Common):": [ Common, Elvish, Dwarvish, Orc, and many others ]
-Largest Cities: [ Dionadyr, Thies, Kumarus, Markavo ]
+Largest Cities: [ "[[Lavencia]]", "[[Thies]]", "[[Kumahrus]]", "[[Markavo]]", "[[List of Urban Areas]]" ]
 ---
+
 # Eidyria
 Eidyria is a continent bordered by the [[Old Sea]] to the north, the [[Kande Ocean]] to the west, the [[Great Sea]] and the [[Sea of Embers]] to the south, and the [[Lazores Ocean]] to the east.
 
