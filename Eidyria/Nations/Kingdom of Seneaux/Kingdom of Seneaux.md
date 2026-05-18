@@ -2,6 +2,6 @@
 image: Kingdom of Seneaux.png
 Capital: Thies
 Government: Constitutional Monarchy
-Population: "~850,000"
+Population: "~830,000"
 ---
 

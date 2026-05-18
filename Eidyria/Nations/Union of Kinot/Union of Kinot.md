@@ -2,6 +2,6 @@
 image: Union of Kinot.png
 Capital: Chapilton
 Government: Stateless Gerontocracy
-Population: "~400,000"
+Population: "~260,000"
 ---
 

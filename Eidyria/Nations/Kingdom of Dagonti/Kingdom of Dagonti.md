@@ -2,6 +2,6 @@
 image: Kingdom of Dagonti.png
 Capital: Kumahrus
 Government: Absolute Monarchy
-Population: "~850,000"
+Population: "~600,000"
 ---
 
