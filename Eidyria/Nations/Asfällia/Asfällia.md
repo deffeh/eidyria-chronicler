@@ -4,7 +4,6 @@ Capital: Tilsit Rein
 Government: Meritocratic Democracy
 Population: "~760,000"
 ---
-
 # Asfällia
 Asfällia is a country in eastern and southern Eidyria. It lies between the [[Duns]] to the north, the [[Lazores Ocean]] to the east, and the [[Sea of Embers]] to the south. It has a total population of over 750 thousand. Asfällia borders the [[Kingdom of Seneaux]] to the north and the [[Kingdom of Dagonti]] to the west. The capital, [[Tilsit Rein]], is the largest Asfällian city, followed by [[Falsruun]] and [[Mittenmeer]].
 

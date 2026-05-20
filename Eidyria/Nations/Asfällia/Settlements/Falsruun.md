@@ -1,5 +1,4 @@
 ---
-tags: [add, your, tags]
 ---
 # Falsruun
 Falsruun, officially Falsruun City of the Lorenic Order, is a semi-autonomous theocratic city-state located in the [[Duns]] in northern [[Asfällia]]. It consists of the city as well as nearly 100 other small localities in the surrounding areas. With a population of ~22,000, it is the eighth largest urban area in Eidyria. The city in its modern form, was established by the Lorenic Order in 368 BFE, per the terms of Article 4 of the [[Hammer and Leaf Accord]], following the end of the [[Dwarven-Elven Conflict]].
