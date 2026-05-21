@@ -10,5 +10,6 @@ Falsruun is one of the world's oldest cities, with its recorded history spanning
 ## Etymology
 According to ancient elvish scholars, the city was named Falsruun, meaning "Mountain Realm", by the first elves in their language, Sylvan.
 
-## Lorenic Order
+## Politics
+### Lorenic Order
 The Lorenic Order is a religious institution founded as a military society of the Lorenic faith in 368 BFE. The order was formed to protect mines, escort shipments, oversee engineering and metallurgy, and preserve sacred knowledge. It was established as a result of regime change following the Dwarven-Elven Conflict, replacing the [[Greathand Dynasty]]. The order's compliance with the [[Hammer and Leaf Accord]] leads some, to this day, to maintain that the Lorenic regime is an illegal government run by traitors.
