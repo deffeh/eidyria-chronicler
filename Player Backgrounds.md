@@ -1,3 +1,4 @@
+# DRAFT
 ### Tralen Idrendri
 You are a member of the Censorate. Your official title is Under-Censor. You began your career as a Clerk at the Censorate headquarters in Tilsit Rein. Afterwards, you were an Apprentice Censor to Censor Hatharal Zumfaren, who is now your handler. You were recently promoted to this position and this is your first solo mission.
 
@@ -46,7 +47,7 @@ A few weeks ago when you were in Pereville, some human men approached you who we
 You traveled for about week going east across the Kingdom of Dagonti, first stopping at Nandraa, then Kumahrus, and eventually the border of Asfallia. Before you arrived at the border, your companions decided to go north before crossing the river and going into the woods of Asfallia. You traveled eastward for another day before setting camp in woods. In the middle of that night you were awoken by your companions and they took you on a walk in the woods. Eventually they told you to wait while they went on ahead. Minutes later, you hear yelling and screaming and sounds of fighting and magic in the direction your companions went. Moments after, they told you to follow them quickly and to go pick up a large chest. As you arrived to the scene of all the commotion, you come to a road that cut through the woods and you see a chest laying on the ground and 5 dead dwarves around it. You picked it up and you and your companions ran into the woods back to your camp. You broke camp and traveled nonstop for 4 days going westward retracing your original route arriving at Kumarhus at the brink of exhaustion where you and your companions decide to stop at a tavern for the night.
 
 ### Kairo
-You were a member of the
+You were a member of the Veiled Choir
 
 You were ordered to abducting tieflings, any tieflings would suffice but there was a preference to tiefling children. After confliction and deep consideration of what you were about to do, you firmly refused, knowing that insubordiation would lead to execution, and you prepared for a fight. Surprisingly, all they did was threaten you if you did not take this next job. Your insight told you that they were desperate. You were one of their best agents and they could not afford to lose you. Not now. You were offered another job under the threat of execution if you did not accept. Given the circumstance and the location of the job, you accepted. You saw this as an opportunity for you to flee and start a new life.
 
@@ -57,8 +58,8 @@ As a Ghostslayer Blood Hunter, your natural enemies are the undead and those tha
 
 In recent months, your adventures and investigations have led you to the south of the continent where you have noticed an increase of necromancy material trafficking.
 
+# FINAL
 
----
 ### Tralen Idrendri
 You are a member of the Censorate and hold the rank of Under-Censor. You began your career as a Clerk at the Censorate headquarters in Tilsit Rein. Afterward, you served as an Apprentice Censor under Censor Hatharal Zumfaren, who remains your handler. You were only recently promoted, and this is your first independent assignment.
 
