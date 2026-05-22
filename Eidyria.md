@@ -19,7 +19,7 @@ Largest Cities:
 # Eidyria
 Eidyria is a continent bordered by the [[Old Sea]] to the north, the [[Kande Ocean]] to the west, the [[Great Sea]] and the [[Sea of Embers]] to the south, and the [[Lazores Ocean]] to the east.
 
-Eidyria covers approximately 102,000 square miles (264,000 sq km). Politically, Eidyria is divided into about seven sovereign states, of which the [[Lavent-Neshian Empire]] is the largest and most populous, comprising around 23% of the population. Eidyria is estimated to have a total population of approximately five million people.
+Eidyria covers approximately 102,000 square miles (264,000 sq km). Politically, Eidyria is divided into about seven sovereign states, of which the [[Lavent-Neshian Empire]] is the largest and most populous, spanning around 24% of the continent and comprising 23% of its population. Eidyria is estimated to have a total population of approximately five million people.
 
 The continent includes the subregions of the North (comprising the [[Kingdom of Berentsven]] and the [[North Eidyrian Confederation]]), Western Eidyria (comprising the [[Lavent-Neshian Empire]]), and Central Eidyria (comprising the [[Kingdom of Seneaux]], the [[Union of Kinot]], [[Asfällia]], the [[Kingdom of Dagonti]], and [[Könika]]).
 
