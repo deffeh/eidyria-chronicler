@@ -1,6 +1,6 @@
 ---
 title: Eidyria
-image: [ [ The World.png, A Map of Eidyria ] ]
+image: [ [ A Map of Eidyria.png, A Map of Eidyria ] ]
 Area: ~102,000 square miles (264,000 sq km)
 Population: ~5,000,000
 Population Density: ~49.0/sq mi (18.9/sq km)
@@ -16,7 +16,6 @@ Largest Cities:
     "[[List of Urban Areas]]"
   ]
 ---
-
 # Eidyria
 Eidyria is a continent bordered by the [[Old Sea]] to the north, the [[Kande Ocean]] to the west, the [[Great Sea]] and the [[Sea of Embers]] to the south, and the [[Lazores Ocean]] to the east.
 
