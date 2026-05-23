@@ -56,7 +56,7 @@ You eventually recieved new orders under the threat of execution should you refu
 Your orders are to seek out and kill a human by the name of Ferbert from the Kingdom of Seneaux. He was reported to be heading south to Kumahrus in the Kingdom of Dagonti.
 
 ### Ferbert
-As a Ghostslayer Blood Hunter, your natural enemies are the undead and those that create them, necromancers. The necromancy process requires several materials in addition to the bones and corpses of the dead. You have found that rather than tracking necromancers directly, if you track their materials and suppliers, it will eventually lead you directly to them.
+As a Ghostslayer Blood Hunter, your natural enemies are the undead and those that create them, necromancers. The necromancy process requires several materials in addition to the bones and corpses of the dead. Over the years you have found that rather than tracking necromancers directly, if you track their materials and suppliers, it will eventually lead you directly to them.
 
 In recent months, you have noticed an increase of necromancy material trafficking towards the south of the continent. You decided to investigate and traveled south to Kumahrus in the Kingdom of Dagonti. After days of travel through the desert, you arrived and decided to spend the night at a tavern.
 
@@ -112,3 +112,6 @@ At some point in your life, you joined an underground tiefling organization know
 In recent months, rumors have spread by word of mouth throughout the south that tiefling families and individuals have been disappearing, with some claiming they have been abducted. Around this same time, you heard an unusual rumor about a tiefling from Lamut in the south of the North Eidyrian Confederation who had disguised himself as a human and served openly as a priest within his community. Eventually his true identity was discovered, forcing him to flee south. The Brotherhood ordered you to find and recruit him, believing his ability to blend into human society would be valuable. You located him shortly after he arrived in your city, Thies, in the Kingdom of Seneaux, and successfully brought him into the organization.
 
 Because of how recently he joined, the Brotherhood instructed you to accompany him as a handler on his first assignment. Together, the two of you were tasked with traveling south to observe and potentially investigate the rumors surrounding the disappearances. At first you were hesitant. The Lavent-Neshian Empire is not known for treating tieflings well. But you also recognized the opportunity before you. If your instincts were correct, this mission could bring you closer to the mysterious source of power you have felt your entire life. Over the next several weeks, the two of you traveled south to Kumahrus, the capital of the Kingdom of Dagonti. After days of travel through the desert, you arrived and decided to spend the night at a tavern.
+
+### Kairo
+
