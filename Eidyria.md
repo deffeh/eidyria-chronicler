@@ -19,7 +19,7 @@ Largest Cities:
 # Eidyria
 Eidyria is a continent bordered by the [[Old Sea]] to the north, the [[Kande Ocean]] to the west, the [[Great Sea]] and the [[Sea of Embers]] to the south, and the [[Lazores Ocean]] to the east.
 
-Eidyria covers an area of around 102,000 square miles (264,000 sq km). Politically, Eidyria is divided into about seven sovereign states, of which the [[Lavent-Neshian Empire]] is the largest and most populous, spanning approximately 24% of the continent and comprising 23% of its population. Eidyria is estimated to have a total population of approximately five million people.
+Eidyria covers an area of around 102,000 square miles (264,000 sq km). Politically, Eidyria is divided into about seven sovereign states, of which the [[Lavent-Neshian Empire]] is the largest and most populous, spanning approximately 24% of the continent and comprising 23% of its population. Eidyria is estimated to have a total population of approximately five million people. The Eidyrian climate is affected by warm Kande currents which produce a temperate climate, tempering winters and summers, on much of the continent. Further from the sea, seasonal differences are more noticeable producing more continental climates.
 
 The continent includes the subregions of the North (comprising the [[Kingdom of Berentsven]] and the [[North Eidyrian Confederation]]), Western Eidyria (comprising the [[Lavent-Neshian Empire]]), and Central Eidyria (comprising the [[Kingdom of Seneaux]], the [[Union of Kinot]], [[Asfällia]], the [[Kingdom of Dagonti]], and [[Könika]]).
 
@@ -63,3 +63,9 @@ The Lavent-Neshian Empire invaded [[Könika]] in 2E 155, inhabited by displaced 
 In 2E 157, the [[North Eidyrian Confederation]] was formed by the [[Kingdom of Seymon]], the [[Kingdom of Talov]], and the [[Kingdom of Belaya]] in response to the ongoing invasion of Könika. The alliance was established for mutual defense and economic integration intended to deter foreign influence and invasion. Although each member state retained its own monarch and internal administration, the confederation coordinated foreign policy and military planning through an elected high king.
 
 ## Geography
+Eidyria's maritime borders consist of the Old Sea to the north, the Kande Ocean to the west, the Great Sea and the Sea of Embers to the south, and the Lazores Ocean to the east. Land relief in Eidyria shows great variation within relatively small areas. The central regions are more mountainous, while moving towards the coast the terrain descends through hilly uplands, into broad low plains.
+
+This description is simplified. Subregions such as the [[Viden Peninsula]] and the [[Anad Peninsula]] contain their own complex features, as does Central Eidyria itself, where the relief contains many river valleys and basins that complicate the general trend. The continental coastline is long and irregular. The [[Gulf of Kinot]] is the largest body of water indenting the continent.
+
+### Climate
+Eidyria lies mainly in a temperate zone, where the prevailing wind direction is from the west. In general, the continent is colder towards the north compared to the south. Stretching from the Gulf of Kinot to the Lazores Ocean on the east coast, and stretching up to the Anad Peninsula, is the Heartlands featuring intense seasons, with large amounts of annual precipitation. Stretching from the borders of the Heartlands and going south to the Great Sea, the steppe and desert climates are the driest in Eidyria.
