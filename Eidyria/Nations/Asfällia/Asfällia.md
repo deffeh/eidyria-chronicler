@@ -21,5 +21,5 @@ According to ancient elvish scholars, the land was named Asfällia, meaning "Eas
 ### High Assembly
 The Assembly, officially the High Assembly, is the legislative body that governs Asfällia. Members are elected based on ability and talent measured through examination and demonstrated achievement. This system allows anyone who passes an examination to become a Assembly member, a position that brings wealth and honor to the whole family.
 
-### The Censorate
+### Censorate
 The Censorate is a supervisory agency established in 147 BFE. The investigating censors are "the eyes and ears" of the Assembly that monitor and investigate civilian society as well as government bureaucracy at each level to prevent corruption and malfeasance. They are in charge of investigations and duties such as gathering information and complaints from the people and impeaching government administrators for misconduct. Popular stories tell of righteous censors revealing corruption as well as censors who accept bribes.
