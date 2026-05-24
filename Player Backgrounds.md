@@ -57,12 +57,12 @@ Orders from the Choir are supreme. No one gets to refuse the organization, not w
 
 You were given a second chance to prove your loyalty and recieved new orders under the threat of execution should you refuse. Given the circumstance and the location of the job, you accepted. You saw this as a potential opportunity for you to flee and start a new life. However, they would not let you go easy. If you fled, they would hunt you down until the day you died.
 
-Your orders are to seek out and kill a human by the name of Ferbert from the Kingdom of Seneaux. He was reported to be heading south to Kumahrus in the Kingdom of Dagonti. As usual, you were not told as to why.
+Your orders are to seek out and kill a human by the name of Ferbert IV from the Kingdom of Seneaux. He was reported to be heading south to Kumahrus in the Kingdom of Dagonti. As usual, you were not told as to why.
 
-You spent the next week travelling east, out of the Empire, across the war-torn Könika, and into the Kingdom of Dagonti. After days of travel through the desert, you arrived in Kumahrus and decided to spend the night at a tavern.
+You spent the next weeks travelling east, out of the Empire, across the war-torn Könika, and into the Kingdom of Dagonti. After days of travel through the desert, you arrived in Kumahrus and decided to spend the night at a tavern.
 
-### Ferbert
-As a Ghostslayer Blood Hunter, your natural enemies are the undead and those that create them, necromancers. The necromancy process requires several materials in addition to the bones and corpses of the dead. Over the years you have found that rather than tracking necromancers directly, if you track their materials and suppliers, it will eventually lead you directly to them.
+### Ferbert IV
+You are a member of the Order of the Ghostslayer. Your natural enemies are the undead and those that create them, necromancers. The necromancy process requires several materials in addition to the bones and corpses of the dead. Over the years you have found that rather than tracking necromancers directly, if you track their materials and suppliers, it will eventually lead you directly to them.
 
 In recent months, you have noticed an increase of necromancy material trafficking towards the south of the continent. You decided to investigate and traveled south to Kumahrus in the Kingdom of Dagonti. After days of travel through the desert, you arrived and decided to spend the night at a tavern.
 
@@ -130,6 +130,11 @@ Orders within the Veiled Choir are absolute. Refusal is considered insubordinati
 
 Rather than execute you immediately, they offered you one final opportunity to prove your loyalty. Under threat of death should you refuse again, you were given a new assignment. Because of the nature and location of the mission, you accepted, seeing it as a possible chance to disappear and begin a new life of your own. Still, you understood the reality of your situation. If you fled, the Veiled Choir would hunt you for the rest of your life.
 
-Your new orders were to locate and assassinate a human from the Kingdom of Seneaux by the name of Ferbert. He had reportedly traveled south toward Kumahrus in the Kingdom of Dagonti. As usual, you were given no explanation as to why he was marked for death.
+Your new orders were to locate and assassinate a human from the Kingdom of Seneaux by the name of Ferbert IV. He had reportedly traveled south toward Kumahrus in the Kingdom of Dagonti. As usual, you were given no explanation as to why he was marked for death.
 
-Over the following week, you traveled east out of the Empire, across the war-torn lands of Könika, and into the Kingdom of Dagonti. After days of crossing the desert, you finally arrived in Kumahrus and decided to spend the night at a tavern.
+Over the following weeks, you traveled east out of the Empire, across the war-torn lands of Könika, and into the Kingdom of Dagonti. After days of crossing the desert, you finally arrived in Kumahrus and decided to spend the night at a tavern.
+
+### Ferbert IV
+You are a member of the Order of the Ghostslayer. The undead and those who create them, necromancers, are your sworn enemies. Over the years, you have learned that necromancy requires more than corpses and bones alone. The practice depends upon a steady supply of rare materials and components, and you have found it far more effective to track those materials and the people trafficking them than to hunt necromancers directly. Eventually, the trail always leads back to its source.
+
+In recent months, you began noticing an increase in the movement of necromantic materials toward the south of the continent. Believing something larger was taking place, you chose to investigate and traveled south to Kumahrus in the Kingdom of Dagonti. After days of crossing the desert, you arrived in the city and decided to spend the night at a tavern.
