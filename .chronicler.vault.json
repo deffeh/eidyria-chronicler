@@ -20,6 +20,8 @@
     "sidebarWidth": 400,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,
-    "areFooterTagsVisible": true
+    "areFooterTagsVisible": true,
+    "areLinkPreviewsEnabled": true,
+    "areMapPreviewsEnabled": true
   }
 }
