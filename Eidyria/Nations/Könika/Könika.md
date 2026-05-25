@@ -1,6 +1,6 @@
 ---
 image: Könika.png
-Status: Territory under Lavent-Neshian Military administration
+Status: Territory Under Lavent-Neshian Military administration
 Capital: Chuki
 Languages: [ Orc, Common ]
 Religion: "[[The Eidyrian Pantheon]]"
