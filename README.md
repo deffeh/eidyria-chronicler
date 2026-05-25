@@ -1,5 +1,5 @@
 ## Welcome to Eidyria
-This is a personal fantasy worldbuilding project centered around the continent of Eidyria. This setting is being created by me, as the Dungeon Master, for my friends for the tabletop role-playing game, Dungeons & Dragons 5th Edition.
+This is a personal fantasy worldbuilding project centered around the continent of Eidyria. This setting is being created by me, as the Dungeon Master, for my friends and I for the tabletop role-playing game, Dungeons & Dragons 5th Edition.
 
 ### Overview
 This wiki documents the nations, organizations, religions, characters, cultures, geography, and historical events of Eidyria. The setting is intended to support multiple long-term storytelling and tabletop campaigns with interconnected political and personal narratives.
