@@ -35,6 +35,10 @@ Over the following millennia, dragons and their dragonborn followers came to dom
 
 By the final millennium of draconic rule, tensions between dragons and their dragonborn subjects had become apparent. Though the exact causes remain debated, records point to growing unrest throughout the southern domains and a gradual breakdown of relations between rulers and subjects. In the fourth century BFE, widespread rebellions erupted across the draconic domains, marking the beginning of the Dragonborn Uprising. As dragonborn forces rose against their draconic overlords, much of southern Eidyria descended into war. 
 
+### First Era (1E)
+
+### Second Era (2E)
+
 ## Politics
 ### High Assembly
 The Assembly, officially the High Assembly, is the legislative body that governs Asfällia. Members are elected based on ability and talent measured through examination and demonstrated achievement. This system allows anyone who passes an examination to become a Assembly member, a position that brings wealth and honor to the whole family.
