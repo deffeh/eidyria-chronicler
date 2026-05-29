@@ -14,6 +14,9 @@ Asfällia is a country in eastern and southern Eidyria. It lies between the [[Du
 
 Asfällia is considered the cradle of civilization and the birthplace of democracy and Eidyrian history. The ancient Asfällians were organized into independent city-states that spanned the land. Ardreth II of [[Tilsit Rein]] united most of present-day Asfällia, with his son Ardreth III uniting the remaining city-states and forming the High Assembly in the 15th millennium BFE. 
 
+## Etymology
+According to ancient elvish scholars, the land was named Asfällia, meaning "Eastern Mountains," by the first elves in their language, Sylvan.
+
 ## History
 ### Before the First Era
 Ancient elves and dwarves were present in Asfällia at least 30,000 years ago. The oldest humanoid fossils on the continent belong to the elves and were discovered near Mittenmeer on the Lazores coast of Asfällia. From the coast, the elves expanded south, west, and north west where they first came into contact with the ancient dwarves. The relationship between the two peoples are unclear during this period, but evidence suggests both maintained separate settlements and independently developed advanced metallurgy, architecture, and systems of writing.
@@ -30,10 +33,7 @@ The first recorded appearances of dragonborn occurred during the 12th millennium
 
 Over the following millennia, dragons and their dragonborn followers came to dominate much of southern Eidyria. While Asfällia remained beyond their direct control, conflict along the western frontier became a defining feature of the period. Records from this era are limited and often contradictory, though they consistently describe numerous draconic domains ruled by rival dragons and supported by dragonborn populations.
 
-By the final millennium of draconic rule, tensions between dragons and their dragonborn subjects had become apparent. Though the exact causes remain debated, records point to growing unrest throughout the southern domains and a gradual breakdown of relations between rulers and subjects. In the fourth century BFE, widespread rebellions erupted across the draconic domains, marking the beginning of the Dragonborn Uprising. As dragonborn forces rose against their draconic overlords, much of southern Eidyria descended into war.
-
-## Etymology
-According to ancient elvish scholars, the land was named Asfällia, meaning "Eastern Mountains," by the first elves in their language, Sylvan. 
+By the final millennium of draconic rule, tensions between dragons and their dragonborn subjects had become apparent. Though the exact causes remain debated, records point to growing unrest throughout the southern domains and a gradual breakdown of relations between rulers and subjects. In the fourth century BFE, widespread rebellions erupted across the draconic domains, marking the beginning of the Dragonborn Uprising. As dragonborn forces rose against their draconic overlords, much of southern Eidyria descended into war. 
 
 ## Politics
 ### High Assembly
