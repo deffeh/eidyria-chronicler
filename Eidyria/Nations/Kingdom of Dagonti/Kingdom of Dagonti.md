@@ -31,7 +31,7 @@ The appearance of dragonborn in the historical record coincided with a significa
 
 Although subject to draconic rule, the dragonborn gradually developed a distinct culture of their own. Over thousands of years, they developed their own customs, traditions, and communal identities. While heavily influenced by their draconic overlords, dragonborn culture increasingly developed its own identity, separate from that of the dragons they served.
 
-
+Little is known about the origins of the [[Dragonborn Uprising]]. Records are fragmentary and often contradictory, though most historians agree that the conflict emerged from deteriorating relations between dragons and their dragonborn subjects. By the closing centuries before the First Era, rebellion had spread across much of Dagonti, plunging the draconic domains into a prolonged period of warfare.
 
 ### First Era (1E)
 
