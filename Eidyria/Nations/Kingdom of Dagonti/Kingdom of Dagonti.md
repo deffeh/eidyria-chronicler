@@ -42,3 +42,5 @@ The centuries of warfare inflicted catastrophic damage upon the region's environ
 ### Second Era (2E)
 
 ## Politics
+### Royal Council
+The Royal Council is the formal advisory body of the Kingdom of Dagonti. It is a deliberative assembly that advises the king on issues regarding the kingdom. It has the power to propose laws to the king who can either approve and enact or reject the proposals. It has 15 members, all appointed by the King and chosen from amongst scholars, those of knowledge, expertise and specialists. The council advises the king on policies that he submits to it and is permitted to propose draft laws and forward them to the king, but only the king has the power to pass or enforce them, and all laws are treated as decrees from him.
