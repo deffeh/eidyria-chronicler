@@ -14,7 +14,7 @@ The Kingdom of Dagonti, officially the Jarrin Kingdom of Dagonti, is a country i
 
 Before the First Era, the territory that constitutes the modern-day Kingdom of Dagonti, was the home of the ancient dragons. During this period, the land of what is now the Dovii Desert was a vibrant landscape pocked lakes, rivers, grasslands and even forests. The dragonborn emerged from this region in the 12th millennium BFE. Centuries of conflict from the [[Dragonborn Uprising]] led to the collapse of the region's ecosystem and rapid desertification. The first human migrations into these lands began during the first centuries following the conflict.
 
-The Kingdom of Dagonti was founded in 1E 532 by King Sabas of Kumahrus, who united Javig, Akkra, and parts of the Western Dovii into a single state through a series of military and political campaigns beginning in 1E 501. The country has since been governed as an absolute monarchy under the House of Jarrinn.
+The Kingdom of Dagonti was founded in 1E 532 by Prince Sabas of Kumahrus, who united Javig, Akkra, and parts of the Western Dovii into a single state through a series of military and political campaigns beginning in 1E 501. The country has since been governed as an absolute monarchy under the House of Jarrinn.
 
 ## Etymology
 Following the amalgamation of the territories, King Sabas issued a royal decree in 1E 532 naming the new state the Jarrin Kingdom of Dagonti. The word "Dagonti" is derived from draconic, meaning "Domain of Dragons" or "Dragon's Land."
@@ -38,6 +38,17 @@ The outbreak of the Dragonborn Uprising presented neighboring Asfällia with an 
 The centuries of warfare inflicted catastrophic damage upon the region's environment. Dragons repeatedly targeted settlements, forests, croplands, and sources of fresh water, while prolonged campaigns disrupted the maintenance of irrigation systems and riverworks that had sustained the region for thousands of years. As vegetation disappeared and waterways were diverted, polluted, or abandoned, large portions of Dagonti entered a period of ecological collapse. Over the centuries that followed, the once fertile heartland of the draconic domains gradually transformed into the arid wasteland now known as the Dovii Desert.
 
 ### First Era (1E)
+Following the end of the Dragonborn Uprising, much of Dagonti lay in ruin. The wars against the dragons had devastated settlements throughout the south, while surviving dragonborn clans were left fragmented and leaderless. It was around this period when the first human tribes migrating south entered the lands of Dagonti. Initially few in number, these settlers established trade and defensive agreements with indigenous dragonborn clans. Human labor and agricultural knowledge aided in the rebuilding of devastated regions, while seasoned dragonborn warriors provided protection against raiders and hostile beasts that roamed the war-torn lands.
+
+Over the following centuries, human settlements multiplied and expanded. As populations grew, new towns emerged and local rulers consolidated authority over surrounding territories. Although dragonborn clans remained influential in many regions, political power gradually shifted toward the expanding human population. By the end of the early First Era, a number of competing human principalities had arisen across Dagonti, laying the foundations for the kingdom that would eventually unite the region.
+
+The Kingdom of Dagonti was founded in 1E 532 by Prince Sabas of Kumahrus, who united the principalities of Javig, Akkra, and parts of the Western Dovii into a single state through a series of military and political campaigns beginning in 1E 501. Following three decades of expansion and consolidation, Sabas proclaimed himself the first King of Dagonti, establishing the Kingdom of Dagonti and the royal House of Jarrinn.
+
+Since its founding, Dagonti has been governed as an absolute monarchy under the House of Jarrinn. Though the authority of the crown has fluctuated throughout the centuries, the dynasty has remained the dominant political force in the kingdom and traces its legitimacy to the unification of the Dagonti principalities during the early First Era.
+
+The unification of Dagonti was not solely a human endeavor. Throughout the early First Era, numerous dragonborn clans inhabited the Dovii Desert and the surrounding frontier regions, maintaining traditions that traced their origins to the age of draconic rule. During Sabas's campaigns, several clans chose to enter into alliances with Prince Sabas and were gradually integrated into Dagonti's political and social structures. In return for their loyalty, these clans were granted recognition of their traditional leadership and rights within the kingdom.
+
+Other dragonborn clans, particularly those dwelling deep within the Dovii Desert, rejected incorporation into any centralized state and chose to maintain their nomadic way of life. Sabas largely respected their decision, recognizing their claim to the desert lands and refraining from efforts to forcibly settle or subjugate them. As a result, independent dragonborn tribes continue to roam the Dovii long after the founding of the kingdom, preserving customs and traditions that predated the arrival of humans in Dagonti.
 
 ### Second Era (2E)
 
