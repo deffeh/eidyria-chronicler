@@ -11,8 +11,8 @@ Largest Cities:
   [
     "[[Lavencia]]",
     "[[Thies]]",
+    "[[Markavos]]",
     "[[Kumahrus]]",
-    "[[Markavo]]",
     "[[List of Urban Areas]]"
   ]
 ---
