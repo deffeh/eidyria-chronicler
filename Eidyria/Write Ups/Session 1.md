@@ -37,6 +37,17 @@ The man pulled out a coin purse and produced five gold coins. The man handed the
 
 As the Grom's companions finished their meals and drinks, they turned to Grom saying, *"Keep an eye on our things. We're going out tonight and we'll be back later."* After a nod of acknowledgement from Grom, his companions stood up along with the girl and together they all walked across the room, out the front door, and into the dark street.
 
+As soon as the front doors closed behind Grom's companions, the two tieflings seated at the bar rose in unison and followed suit. Walking out into the street, the pair began trailing the group of humans as they walked through the dimly lit streets.
+
+Inside, the elf turned to the human standing between him and his dwarf friend asking, *"Could you do me a favor and ask our orc acquaintance over here about a crate that he might be in possession of?"* The human walked around to the now empty seat next to Grom and asked, *"What's an orc like you doing in this city carrying around a crate?"*
+
+*"What's it to you?"* replied Grom.
+
+Several streets away, the two tieflings watched from a distance as Grom's companions entered a dark building with faint red light emitting from the entryway. As they slowly approached, the duo could begin to hear soft music and smell an aroma of various perfumes coming from inside. Inside the vestibule were two scantly clad women waiting to greet guests as they entered this now apparent brothel. 
+
+Spotting the two tieflings, one of the women greeted, *"Come inside out of the cold and let me warm you up tonight."* The red tiefling replied, *"We're not interested in any services. We just want to go inside."* and began to walk past before being stopped by the other woman. *"Paying customers only."* she said sternly. The second tiefling stepped foward and firmly grasped her shoulder, *"We just want to find our friends who just came in."* The woman reluctantly glanced at her friend then looked back at the indigo tiefling looming over her. The red tiefling held out several gold coins in his hand. *"For your troubles."* The woman hesitated before taking the coins and leading them inside.
+
+Red colored lanterns dimly lit the tight corridors of the building. As the three passed through several curtains that partitioned the large area into dozens of private enclosures, sounds soft laughter mingling with the occasional creak of timber and intimate noises could be heard. Eventually, the woman stopped in front of a solid door on the opposite side the space and turned around. *"They're inside here."* The red tiefling asked, *"Do you have a laundry service here?"* *"Yes, but why?"* she replied. The red tiefling promptly took off his shirt and handed it to her. *"It's been a long journey. Could I have this washed?"* The woman begged, *"Please don't cause any problems."* *"We won't."* the two replied simultaneously. Without much choice, the woman took the shirt and disappeared behind the curtain from which they came.
 
 # Session 1
 The Lazy Cup was one of many inns in the city of Kumahrus. Situated near the city center and its busy markets, the small one-story establishment was a popular destination for merchants, travelers, and caravans passing through the capital.
