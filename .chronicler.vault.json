@@ -18,6 +18,7 @@
     "bodyFont": "\"Junicode\", serif",
     "fontSize": 110,
     "sidebarWidth": 400,
+    "isSidebarVisible": false,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": true,
