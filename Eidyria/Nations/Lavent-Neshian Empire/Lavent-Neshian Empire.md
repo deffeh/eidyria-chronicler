@@ -10,7 +10,16 @@ Area: ~18,200 square miles (47,130 sq km)
 Population: ~1,180,000
 ---
 # Lavent-Neshian Empire
-The Lavent-Neshian Empire, also referred to as Lavencia-Neshium and officially as the Lavent-Neshian Monarchy, is a multi-national dual empire in Western Eidyria. A military and diplomatic alliance, it consists of two sovereign states with a single monarch who is titled Emperor of Lavencia and King of Neshium. Following the conquest of Neshium by the Kingdom of Lavencia in 2E 115, King Mercian of Lavencia was crowned King of Neshium.
+The Lavent-Neshian Empire, also referred to as Lavencia-Neshium and officially as the Lavent-Neshian Monarchy, is a multi-national empire in Western Eidyria. A military and diplomatic alliance, it consists of two sovereign states with a single monarch who is titled Emperor of Lavencia and King of Neshium. Following the conquest of Neshium by the Kingdom of Lavencia in 2E 115, King Mercian of Lavencia was crowned King of Neshium.
+
+The Lavent-Neshian Empire is the most populous country in Eidyria and the fourth-largest in area (after the [[North Eidyrian Confederation]]).
+
+At its core is the dual monarchy, which is a real union between the [[Kingdom of Lavencia]] and the [[Kingdom of Neshium]]. Following the 2E 115 reforms, the Lavent and Neshian states have since been co-equal in power. The two countries conduct unified diplomatic, defence, and monetary policies. For these purposes, "common" ministries of foreign affairs and defence are maintained under the monarch's direct authority, as is a third finance ministry responsible only for financing the two "common" portfolios as well as the Imperial Bank.
+
+## History
+### Before the First Era
+### First Era (1E)
+### Second Era (2E)
 
 ## Politics
 ### Imperial Authority
