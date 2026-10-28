@@ -1,5 +1,6 @@
 ---
 image: Kingdom of Neshium.png
+Status: Self-governing part of the [[Lavent-Neshian Empire]]
 Capital: Neshium
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"

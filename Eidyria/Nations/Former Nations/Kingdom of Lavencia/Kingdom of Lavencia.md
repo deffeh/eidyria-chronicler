@@ -1,5 +1,6 @@
 ---
 image: Kingdom of Lavencia.png
+Status: Self-governing part of the [[Lavent-Neshian Empire]]
 Capital: Lavencia
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"
