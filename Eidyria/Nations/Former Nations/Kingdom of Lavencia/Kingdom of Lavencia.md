@@ -1,4 +1,5 @@
 ---
+image: Kingdom of Lavencia.png
 Capital: Lavencia
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"

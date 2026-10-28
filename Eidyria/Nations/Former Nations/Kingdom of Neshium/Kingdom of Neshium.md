@@ -1,4 +1,5 @@
 ---
+image: Kingdom of Neshium.png
 Capital: Neshium
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"
