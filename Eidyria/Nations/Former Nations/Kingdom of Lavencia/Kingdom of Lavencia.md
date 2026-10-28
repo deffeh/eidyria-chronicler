@@ -17,3 +17,12 @@ The Lavent capital is the city of Lavencia. The territory has a population of ab
 
 ## History
 ### Before the First Era
+During the pre-human era, the region of what is now the Kingdom of Lavencia was settled by varius orc tribes and had served as the core of ancient orcish culture. Near the city of [[Dionadyr]] lies the oldest archaeological evidence of the orcs in [[Eidyria]] dating back to 8,000 BFE.
+
+### First Era (1E)
+The advancement of sailing ships and navigation in the 2nd century allowed seafaring human warriors from northern Eidyria to raid the coasts of the [[Viden Peninsula]]. These groups then began to settle in increasing numbers over the course of the second and third centuries, initially in the northern part of the country. Their advance was contained for some decades after the orcs' victory at the [[Battle of Bagno]], but subsequently resumed, overrunning the fertile lowlands of the [[Viden Peninsula]] and reducing the area under orcish control to a series of separate enclaves in the more rugged country to the east by the end of the 4th century.
+
+During the settlement period the lands ruled by the incomers seem to have been fragmented into numerous tribal territories, but by the 4th century, these had coalesced into several independent city-states including Zorino, Lavencia, Dionadyr, and Wostend. Over the following centuries, this process of political consolidation continued. The 5th century saw a struggle for hegemony between Zorino and Lavencia, which in the 6th century gave way to Lavent preeminence. Later in that century escalating attacks by the orcs culminated in the sacks of Zorino and Dionadyr and the fall of the east. Lavencia and Wostend, under Lavent King Alvren, were left as the only surviving human cities, and under his successors, the kingdom steadily reconquered the east at the expense of the returning orc tribes. This brought about the political unification of the Kingdom of Lavencia, first accomplished under King Asteran and definitively established after further conflict by King Edranis in 1E 653.
+
+### Second Era (2E)
+
