@@ -25,4 +25,10 @@ The advancement of sailing ships and navigation in the 2nd century allowed seafa
 During the settlement period the lands ruled by the incomers seem to have been fragmented into numerous tribal territories, but by the 4th century, these had coalesced into several independent city-states including Zorino, Lavencia, Dionadyr, and Wostend. Over the following centuries, this process of political consolidation continued. The 5th century saw a struggle for hegemony between Zorino and Lavencia, which in the 6th century gave way to Lavent preeminence. Later in that century escalating attacks by the orcs culminated in the sacks of Zorino and Dionadyr and the fall of the east. Lavencia and Wostend, under Lavent King Alvren, were left as the only surviving human cities, and under his successors, the kingdom steadily reconquered the east at the expense of the returning orc tribes. This brought about the political unification of the Kingdom of Lavencia, first accomplished under King Asteran and definitively established after further conflict by King Edranis in 1E 653.
 
 ### Second Era (2E)
+King Mercian's permanent ambition was always the [[Kingdom of Neshium]], and the opportunity came in 2E 112 with the successive deaths of Lorent III and Queen Joralia of Neshium.
 
+At the death of Lorent, Mercian left Lavencia with the army and quickly took over most of the [[Kingdom of Neshium]]. In 2E 114, the siege of Neshium began but had to be briefly lifted later that year due to the attack of orc raiders.
+
+Mercian became king of Neshium, as he wished with the Lavent victory at Neshium
+
+By this act, the [[Kingdom of Neshium]] and the [[Kingdom of Lavencia]] as two separate entities joined on an equal basis to form the Dual Monarchy of Lavencia-Neshium.
