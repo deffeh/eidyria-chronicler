@@ -15,6 +15,8 @@ The Kingdom of Lavencia, officially The Kingdoms and Lands Represented in the Im
 
 The Lavent capital is the city of Lavencia. The territory has a population of about 1 million, nearly 85% of the empire's population. It reaches from the borders of the [[Union of Kinot]] and [[Könika]] in the east to the [[Kande Ocean]] in the west, as well as the [[Gulf of Kinot]] in the north to the [[Lesser Calcare Mountains]] in the south. It comprises the former city-states of [[Lavencia]], [[Zorino]], [[Dionadyr]], and [[Wostend]], along with their surrounding territories.
 
+## Etymology
+
 ## History
 ### Before the First Era
 During the pre-human era, the region of what is now the Kingdom of Lavencia was settled by varius orc tribes and had served as the core of ancient orcish culture. Near the city of [[Dionadyr]] lies the oldest archaeological evidence of the orcs in [[Eidyria]] dating back to 8,000 BFE.
@@ -36,3 +38,5 @@ The unification of the peninsula through the conquest of the neighboring [[Kingd
 Taking advantage of the succession crisis, Mercian assembled an army and invaded the Kingdom of Neshium, rapidly bringing much of the kingdom under Lavent control. In 2E 114, his forces laid siege to Neshium, although the campaign was briefly interrupted later that year by orc raids that forced Mercian to divert part of his army. Following the resumption of the siege, Lavent forces ultimately captured Neshium in 2E 115, bringing the kingdom under Mercian's control. Rather than annexing its territories directly, Mercian assumed the Neshian crown while preserving the kingdom's separate legal and political institutions.
 
 The conquest consequently established a union of the two crowns, with Mercian reigning as king of both the Kingdoms of Lavencia and Neshium. Although united under a single sovereign, the kingdoms retained their distinct identities, laws, and governing institutions. This arrangement laid the foundations for the eventual establishment of the Dual Monarchy, under which the two kingdoms were formally recognized as constituent partners of a common monarchy.
+
+## Politics
