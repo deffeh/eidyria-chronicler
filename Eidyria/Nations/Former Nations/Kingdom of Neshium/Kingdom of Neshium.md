@@ -17,5 +17,5 @@ The Kingdom of Neshium, formally The Lands of the Neshian Crown, are the Neshian
 ### Before the First Era
 Presence of ancient orc tribes within the modern borders of the Kingdom of Neshium dates back to 8,000 BFE where the first orcs migrated from the center of the peninsula and settled along the coast. 
 ### First Era (1E)
-Sailing west around the peninsula, human settlers from northern Eidyria established themselves along the south-eastern coasts during the third and fourth centuries. Over the following centuries the humans gradually expanded their territory inland and created a distinct cultural identity separate from the northern humans. 
+Sailing west around the peninsula, human settlers from northern Eidyria established themselves along the south-eastern coasts during the third and fourth centuries. Over the following centuries the humans gradually expanded their territory inland and created a distinct cultural identity separate from the other humans settling the north of the peninsula. The 5th century was characterised by frequent conflict between humans and orcs, whos resistance significantly hindered territorial expansion. These conflicts were intensified by the arrival of orcish populations displaced by human expansion in the north.
 ### Second Era (2E)
