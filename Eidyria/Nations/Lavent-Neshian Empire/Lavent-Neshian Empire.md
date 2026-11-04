@@ -10,7 +10,7 @@ Area: ~18,200 square miles (47,130 sq km)
 Population: ~1,180,000
 ---
 # Lavent-Neshian Empire
-The Lavent-Neshian Empire, also referred to as Lavencia-Neshium and officially as the Lavent-Neshian Monarchy, is a multi-national empire in Western Eidyria. A military and diplomatic alliance, it consists of two sovereign states with a single monarch who is titled Emperor of Lavencia and King of Neshium. Following the conquest of Neshium by the Kingdom of Lavencia in 2E 115, King Mercian of Lavencia was crowned King of Neshium.
+The **Lavent-Neshian Empire**, also referred to as **Lavencia-Neshium** and officially as the **Lavent-Neshian Monarchy**, is a multi-national empire in Western Eidyria. A military and diplomatic alliance, it consists of two sovereign states with a single monarch who is titled Emperor of Lavencia and King of Neshium. Following the conquest of Neshium by the Kingdom of Lavencia in 2E 115, King Mercian of Lavencia was crowned King of Neshium.
 
 Spanning the [[Viden Peninsula]], it is bordered by the [[Union of Kinot]] and [[Könika]] to the east, the [[Gulf of Kinot]] to the north, the [[Kande Ocean]] to the west, and the [[Great Sea]] to the south. The Lavent-Neshian Empire has a population of about 1.18 million and occupies an area of 18,200 square miles (47,130 sq km) making it the most populous state in Eidyria and the fourth-largest in area (after the [[North Eidyrian Confederation]]). [[Dionadyr]] is the empire's capital and economic center.
 
@@ -19,6 +19,8 @@ The area of today's Lavent-Neshian Empire has been inhabited since Before the Fi
 At its core is the dual monarchy, which is a real union between the [[Kingdom of Lavencia]] and the [[Kingdom of Neshium]]. Following the 2E 115 reforms, the Lavent and Neshian states have since been co-equal in power. The two countries conduct unified diplomatic, defence, and monetary policies. For these purposes, "common" ministries of foreign affairs and defence are maintained under the monarch's direct authority, as is a third finance ministry responsible only for financing the two "common" portfolios as well as the Imperial Bank.
 
 ## Etymology
+The dual monarchy has been anachronistically often called simply *Lavencia*, referring to the main hereditary lands of the ruling Lavent Thessari and particularly to the [[Kingdom of Lavencia]], which the dual monarchy emerged from.
+
 The realm's full name used in internal administration is **The Kingdoms and Lands Represented in the Imperial Authority and the Lands of the Neshian Crown**.
 
 Following a decision of Mercian in 2E 116, the realm bore internationally the official name **Lavent-Neshian Monarchy**.
@@ -26,9 +28,8 @@ Following a decision of Mercian in 2E 116, the realm bore internationally the of
 Other occasionally used names were the *Dual Monarchy*, *The Golden Eagle*, or the *Viden Monarchy*, but none of these became widespread either in the empire or elsewhere.
 
 ## History
-### Before the First Era
-### First Era (1E)
 ### Second Era (2E)
+Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]] in 2E 115, King Mercian assumed the Neshian throne. Control of the city of [[Neshium]] was transferred from House Jurant to House Thessari, while the Jurants were permitted to retain dominion over the rural territories of the former kingdom in exchange for swearing fealty to King Mercian, who in his new capacity as King of Neshium, approved and promulgated new reforms, which officially gave birth to the Dual Monarchy.
 
 ## Politics
 ### Imperial Authority
