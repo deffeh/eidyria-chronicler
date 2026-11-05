@@ -5,7 +5,7 @@ Capital: Neshium
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"
 Demonym: Neshian
-Government: Absolute Monarchy
+Government: Centralized Monarchy
 Legislature: Imperial Authority
 Area: ~3,260 square miles (8,450 sq km)
 Population: ~180,000

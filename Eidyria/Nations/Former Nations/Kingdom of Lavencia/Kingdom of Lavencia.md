@@ -5,7 +5,7 @@ Capital: Lavencia
 Languages: Common
 Religion: "[[The Eidyrian Pantheon]]"
 Demonym: Lavent
-Government: Absolute Monarchy
+Government: Feudal Monarchy
 Legislature: Imperial Authority
 Area: ~14,940 square miles (38,680 sq km)
 Population: ~1,000,000
