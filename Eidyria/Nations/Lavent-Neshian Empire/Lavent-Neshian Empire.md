@@ -19,7 +19,7 @@ The area of today's Lavent-Neshian Empire has been inhabited since Before the Fi
 At its core is the dual monarchy, which is a real union between the [[Kingdom of Lavencia]] and the [[Kingdom of Neshium]]. Following the 2E 115 reforms, the Lavent and Neshian states have since been co-equal in power. The two countries conduct unified diplomatic, defence, and monetary policies. For these purposes, "common" ministries of foreign affairs and defence are maintained under the monarch's direct authority, as is a third finance ministry responsible only for financing the two "common" portfolios as well as the Imperial Bank.
 
 ## Etymology
-The dual monarchy has been anachronistically often called simply *Lavencia*, referring to the main hereditary lands of the ruling Lavent Thessari and particularly to the [[Kingdom of Lavencia]], which the dual monarchy emerged from.
+The dual monarchy has been anachronistically often called simply *Lavencia*, referring to the main hereditary lands of the ruling Lavent House of Thessari and particularly to the [[Kingdom of Lavencia]], which the dual monarchy emerged from.
 
 The realm's full name used in internal administration is **The Kingdoms and Lands Represented in the Imperial Authority and the Lands of the Neshian Crown**.
 
@@ -32,6 +32,29 @@ Other occasionally used names were the *Dual Monarchy*, *The Golden Eagle*, or t
 Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]] in 2E 115, King Mercian assumed the Neshian throne. Control of the city of [[Neshium]] was transferred from House Jurant to House Thessari, while the Jurants were permitted to retain dominion over the rural territories of the former kingdom in exchange for swearing fealty to King Mercian, who in his new capacity as King of Neshium, approved and promulgated new reforms, which officially gave birth to the Dual Monarchy.
 
 ## Politics
+### Great Houses
+[[House Thessari]] - rulers of [[Lavencia]] and the city of [[Neshium]] and the royal house of the empire.
+
+[[House Corenthos]] - rulers of [[Wostend]]. The first house to swear fealty to House Thessari during the Reconquest.
+
+[[House Varellis]] - rulers of [[Zorino]]. Retook their lands from the orcs, who sacked the Zorino in ..., during the Reconquest. Aided by House Thessari under the condition of vassalage.
+
+[[House Leontaris]] - rulers of [[Dionadyr]]. Legally extinct after the sack of  Dionadyr. Restored by House Thessari during the Reconquest.
+
+[[House Jurant]] - rulers [[Neshium]]. Permitted to retain dominion over the rural territories of the [[Kingdom of Neshium]] in exchange for swearing fealty to King Mercian. Control of the city of Neshium itself was transferred to House Thessari.
+
+---
+
+[[House Thessari]] of [[Lavencia]] emerged as the dominant dynasty, extending its authority over the former independent city-states.
+
+[[House Corenthos]] of [[Wostend]] was the first to swear fealty to House Thessari and contributed significantly in the reconquest.
+
+[[House Varellis]] of [[Zorino]] was displaced following the sack of the city, although much of the family and its forces escaped by sea. Following the reconquest, House Varellis was restored to its ancestral position under the authority of House Thessari.
+
+[[House Leontaris]] of [[Dionadyr]] was nearly extinguished during the sack of the city, with only distant members of the family surviving. House Thessari subsequently restored the Leontaris to power during the reconquest, establishing a close vasallage between the two houses.
+
+[[House Jurant]] of [[Neshium]] was permitted to retain dominion over the rural territories of the [[Kingdom of Neshium]] in exchange for swearing fealty to King Mercian. Control of the city of Neshium itself was transferred to House Thessari.
+
 ### Imperial Authority
 The Imperial Authority is the governing body which advises the emperor and institutes policy at his command. Members are appointed to and dismissed from their position by the emperor who serves as head of the authority. Only the emperor can make the authority's decisions into law.
 
