@@ -29,11 +29,13 @@ Other occasionally used names were the *Dual Monarchy*, *The Golden Eagle*, or t
 
 ## History
 ### Second Era (2E)
-Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]] in 2E 115, King Mercian assumed the Neshian throne. Control of the city of [[Neshium]] was transferred from House Jurant to House Thessari, while the Jurants were permitted to retain dominion over the rural territories of the former kingdom in exchange for swearing fealty to King Mercian, who in his new capacity as King of Neshium, approved and promulgated new reforms, which officially gave birth to the Dual Monarchy.
+Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]] in 2E 115, King Mercian assumed the Neshian throne. Control of the city of [[Neshium]] was transferred from [[House Jurant]] to [[House Thessari]], while the Jurants were permitted to retain dominion over the rural territories of the former kingdom in exchange for swearing fealty to King Mercian, who in his new capacity as King of Neshium, approved and promulgated new reforms, which officially gave birth to the Dual Monarchy.
+
+In 2E 151, Ardanis succeeded his predecessor, Caleon, son of Mercian, to the thrones of Lavencia and Neshium, inheriting the dual monarchy that had enjoyed decades of relative stability since its unification. Not content with an idle reign, Ardanis strove to find reason to invade [[Könika]], which would give him the dramatic military success he sought. To this end, he stirred up popular nightmares of the sacks of [[Zorino]] and [[Dionadyr]] and the more recent threat of orc raids along the eastern frontier. When the Hebub and Tidgug tribes began to migrate on a route that would take them near (not through) the eastern border, Ardanis had the barely sufficient excuse he needed for his invasion of Könika, fought between 2E 155 and 2E 165. After slaughtering the Hebub tribe, Ardanis prosecuted a "long, bitter, and costly" campaign against other tribes across the breadth of Könika and annexed their territory to that of Lavencia-Neshium. Although "fierce and able" the orcs were handicapped by internal disunity and fell in a series of battles over the course of a decade. By 2E 165, the entirety of Könika lay in Lavent-Neshian hands.
 
 ## Politics
 ### Great Houses
-[[House Thessari]] - rulers of [[Lavencia]] and the city of [[Neshium]]. Royal house of the empire and it's constituent kingdoms.
+[[House Thessari]] - rulers of [[Lavencia]] and the city of [[Neshium]]. Royal house of the empire and it's two constituent kingdoms.
 
 [[House Corenthos]] - rulers of [[Wostend]].
 
@@ -41,7 +43,7 @@ Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]
 
 [[House Leontaris]] - rulers of [[Dionadyr]]. Though the city of Dionadyr serves as the imperial capital and seat of the Emperor's court, it remains under the lordship of House Leontaris.
 
-[[House Jurant]] - rulers of [[Neshium]]. Former rulers of the [[Kingdom of Neshium]] and the city of Neshium.
+[[House Jurant]] - rulers of [[Neshium]]. Former royal house and rulers of the [[Kingdom of Neshium]] and city of Neshium.
 
 ### Imperial Authority
 The Imperial Authority is the governing body which advises the emperor and institutes policy at his command. Members are appointed to and dismissed from their position by the emperor who serves as head of the authority. Only the emperor can make the authority's decisions into law.
