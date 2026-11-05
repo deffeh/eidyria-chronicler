@@ -33,27 +33,15 @@ Following the [[Kingdom of Neshium]]'s defeat against the [[Kingdom of Lavencia]
 
 ## Politics
 ### Great Houses
-[[House Thessari]] - rulers of [[Lavencia]] and the city of [[Neshium]] and the royal house of the empire.
+[[House Thessari]] - rulers of [[Lavencia]] and the city of [[Neshium]]. Royal house of the empire and it's constituent kingdoms.
 
-[[House Corenthos]] - rulers of [[Wostend]]. The first house to swear fealty to House Thessari during the Reconquest.
+[[House Corenthos]] - rulers of [[Wostend]].
 
-[[House Varellis]] - rulers of [[Zorino]]. Retook their lands from the orcs, who sacked the Zorino in ..., during the Reconquest. Aided by House Thessari under the condition of vassalage.
+[[House Varellis]] - rulers of [[Zorino]].
 
-[[House Leontaris]] - rulers of [[Dionadyr]]. Legally extinct after the sack of  Dionadyr. Restored by House Thessari during the Reconquest.
+[[House Leontaris]] - rulers of [[Dionadyr]]. Though the city of Dionadyr serves as the imperial capital and seat of the Emperor's court, it remains under the lordship of House Leontaris.
 
-[[House Jurant]] - rulers [[Neshium]]. Permitted to retain dominion over the rural territories of the [[Kingdom of Neshium]] in exchange for swearing fealty to King Mercian. Control of the city of Neshium itself was transferred to House Thessari.
-
----
-
-[[House Thessari]] of [[Lavencia]] emerged as the dominant dynasty, extending its authority over the former independent city-states.
-
-[[House Corenthos]] of [[Wostend]] was the first to swear fealty to House Thessari and contributed significantly in the reconquest.
-
-[[House Varellis]] of [[Zorino]] was displaced following the sack of the city, although much of the family and its forces escaped by sea. Following the reconquest, House Varellis was restored to its ancestral position under the authority of House Thessari.
-
-[[House Leontaris]] of [[Dionadyr]] was nearly extinguished during the sack of the city, with only distant members of the family surviving. House Thessari subsequently restored the Leontaris to power during the reconquest, establishing a close vasallage between the two houses.
-
-[[House Jurant]] of [[Neshium]] was permitted to retain dominion over the rural territories of the [[Kingdom of Neshium]] in exchange for swearing fealty to King Mercian. Control of the city of Neshium itself was transferred to House Thessari.
+[[House Jurant]] - rulers of [[Neshium]]. Former rulers of the [[Kingdom of Neshium]] and the city of Neshium.
 
 ### Imperial Authority
 The Imperial Authority is the governing body which advises the emperor and institutes policy at his command. Members are appointed to and dismissed from their position by the emperor who serves as head of the authority. Only the emperor can make the authority's decisions into law.
